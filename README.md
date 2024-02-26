@@ -1,4 +1,4 @@
-# Project Four
+# ConnectX
 This project should be runnable with JDK17
 --------------------------------------------------------
 ## Contribution Statements:

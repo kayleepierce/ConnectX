@@ -24,7 +24,7 @@ ConnectX is a strategic game where players take turns dropping pieces into a gri
    - The first player to connect a sequence of pieces (horizontally, vertically, or diagonally) wins the game.
    - The game ends in a draw if the grid is completely filled without any player connecting the required sequence.
 
-To compile and run the game type "make" or  "make run" to the console and it will start the game
+*To compile and run the game type "make" or  "make run" to the console and it will start the game
 
 *If you wish to test the program, enter "make test" to compile and "make testGB" or "make testGBmem" to run the tests.
 
